@@ -1,7 +1,7 @@
 # wendychupiano.com
 <h1>Wendy Chu Piano Studio Webpage</h1>
 
-Another website I created using Wordpress for a client and hosted on Bluehost.com.  Site was designed around musical artistry and shows a video on the front page of the pianist playing the piano as a banner.  Eye appeal was kept in mind and lots of photos as well as personalization.  Heavy plug-ins were implemented as well as modifications to the HTML, CSS, Javascript and PHP inner code files.  Click the following link to visit the site:
+Another website I created using for a client and hosted on NixiHost (formerly Bluehost).  Site was designed around musical artistry and shows a video on the front page of the pianist playing the piano as a banner.  Eye appeal was kept in mind and lots of photos as well as personalization.  Heavy plug-ins were implemented as well as modifications to the HTML, CSS, Javascript and PHP inner code files.  Click the following link to visit the site:
 
 <li>https://wendychupiano.com</li>
 
